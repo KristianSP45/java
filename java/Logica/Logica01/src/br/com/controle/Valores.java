@@ -45,5 +45,5 @@ public class Valores {
     public void setRes(int Res) {
         this.Res = Res;
     }
-    
+
 }
