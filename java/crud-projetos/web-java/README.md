@@ -3,6 +3,6 @@
 Esta pasta contém projetos desenvolvidos em Java para aplicações web, seguindo o padrão MVC.
 
 ## Projetos:
-- **mercado-mvc** → Sistema de mercado
+- **nome-projeto** → exemplo
 
 Cada projeto contém sua própria documentação e banco de dados.
