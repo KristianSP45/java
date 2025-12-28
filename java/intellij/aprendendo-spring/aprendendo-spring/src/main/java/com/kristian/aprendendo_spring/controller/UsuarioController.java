@@ -43,4 +43,5 @@ public class UsuarioController {
         usuarioService.deletaUsuarioPorEmail(email);
         return  ResponseEntity.ok().build();
     }
+
 }
